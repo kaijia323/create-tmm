@@ -12,5 +12,4 @@ npm
 
 ```shell
 npm create tmm
-``
 ```
