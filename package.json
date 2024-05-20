@@ -15,7 +15,7 @@
     "tampermonkey-template",
     "油猴模板"
   ],
-  "author": "",
+  "author": "kaijia",
   "license": "ISC",
   "dependencies": {
     "degit": "^2.8.4",
